@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+/* body {
+  background-color: lightskyblue;
+  border-style: outset;
+} */
+/*create user account font style*/
+.tag {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+/*deposite */
+#d {
+  border-style: groove;
+  padding: 2%;
+}
+#w {
+  border-style: groove;
+  padding: 2%;
+}
+
+.dep {
+  border-radius: 20px;
+
+  color: red;
+  font-family: "Times New Roman", serif;
+  font-size: 1.8rem;
+}
+/*withdraw*/
+.with {
+  border-radius: 20px;
+
+  color: red;
+  font-family: "Times New Roman", serif;
+  font-size: 1.8rem;
+}
+.tag {
+  border-radius: 20px;
+  font-style: bold;
+
+  color: red;
+  font-family: "Times New Roman", serif;
+  font-size: 1.8rem;
+}
